@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @gateniomer
-- 👀 I’m interested in Full-Stuck Development
-- 🌱 I’m currently learning Advanced JavaScript
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Full-Stuck related projects
 
 <!---
