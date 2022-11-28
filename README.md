@@ -1,5 +1,5 @@
 Hey, I'm Omer 👋 an enthusiastic self-learner in his jornuey to become a Front-End/Full-Stack Developer!
-Experienced with HTML, CSS, JavaScript, React, Redux, Graphic Design, Git (you should really check out my projects on Github!)
+Experienced with HTML, CSS, JavaScript, TypeScript, React, Redux, Firebase, Graphic Design, Git (you should really check out my projects on Github!)
 
 I love learning & creating new tools to help myself and others achieving goals and improving life, for example:
 - Psycho-trainer (psychometric training app with over 4k downloads on Google Play!)
