@@ -1,13 +1,9 @@
-Hey, I'm Omer 👋 an enthusiastic self-learner in his jornuey to become a Front-End/Full-Stack Developer!
-Experienced with HTML, CSS, JavaScript, TypeScript, React, Redux, Firebase, Bootstrap, Tailwind ,Graphic Design, Git (you should really check out my projects on Github!)
+Independent self-taught developer with a proven track record of creating useful applications, such as Psycho-Trainer. Former team leader with strong interpersonal and problem-solving abilities. Possess strong passion for developing ideas from scratch while being organized, productive, and motivated by challenges.
 
-I love learning & creating new tools to help myself and others achieving goals and improving life, for example:
-- Psycho-trainer (psychometric training app with over 4k downloads on Google Play!)
-- CCNA Training (trainning app for the CCNA exams by CISCO)
-- OmerSites (my own Wordpress website building company)
-- Meditation Tracker (one of my current React projects, checkout my github for live preview)
+Real-Life Achievements
+⭐ Psycho-Trainer (psychometric training app with over 4k downloads on Google Play)
+⭐ OmerSites (Founder) (WordPress website building company)
+⭐ CCNA Training (training app for the CCNA exams by CISCO)
 
-I'm very friendly, love to lead & help others. Overcoming challenges is a daily thing, with or without a group by my side.
-
-Check out my Github account to see more: https://github.com/gateniomer
+I am seeking a full-time Front-End position where I can utilize my skills and passion for developing comprehensive solutions for customers and end users. 
 Feel free to contact me for any reason, I'm always looking for new opportunities! (job offers included)
