@@ -10,4 +10,4 @@ Check out my Github: https://github.com/gateniomer
 
 Feel free to contact me for any reason, I'm always looking for new opportunities! (job offers included)
 
-![https://img.shields.io/badge/React-blue]
+![react](https://img.shields.io/badge/React-blue)
