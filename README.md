@@ -12,11 +12,14 @@ I am a self-taught developer with a deep enthusiasm for turning my ideas into re
 ![html](https://img.shields.io/badge/HTML-F2DEBA)
 ![css](https://img.shields.io/badge/CSS-F2DEBA)
 
-My real-world achievements:
+## Real-world achievements
 ⭐ Psycho-Trainer - psychometric training app with over 4k downloads on Google Play
+
 ⭐ OmerSites - WordPress websites building as a freelancer
+
 ⭐ CCNA Training - training app for the CCNA exams by CISCO
 
+## Learn More
 Check out my portfolio: https://gateniomer.github.io/portfolio/
 Check out my Github: https://github.com/gateniomer
 
