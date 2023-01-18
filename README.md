@@ -11,9 +11,12 @@ I am a self-taught developer with a deep enthusiasm for turning my ideas into re
 ![JavaScript](https://img.shields.io/badge/JavaScript-453C67)
 ![html](https://img.shields.io/badge/HTML-453C67)
 ![css](https://img.shields.io/badge/CSS-453C67)
-![tailwindcss](https://img.shields.io/badge/TailwindCSS-453C67)
-![sass](https://img.shields.io/badge/SASS-453C67)
-![bootstrap](https://img.shields.io/badge/Bootstrap-453C67)
+![tailwindcss](https://img.shields.io/badge/TailwindCSS-3C2A21)
+![sass](https://img.shields.io/badge/SASS-3C2A21)
+![bootstrap](https://img.shields.io/badge/Bootstrap-3C2A21)
+![firebase](https://img.shields.io/badge/Firebase-B3FFAE)
+![Stripe](https://img.shields.io/badge/Stripe-B3FFAE)
+
 
 
 ## Real-world achievements
