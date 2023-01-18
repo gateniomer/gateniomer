@@ -4,9 +4,9 @@ I am a self-taught developer with a deep enthusiasm for turning my ideas into re
 ## Stack
 ![react](https://img.shields.io/badge/React-blue)
 ![next.js](https://img.shields.io/badge/Next.js-blue)
-![node](https://img.shields.io/badge/Node.js-orange)
-![mongodb](https://img.shields.io/badge/mongodb-orange)
-![express](https://img.shields.io/badge/Express-orange)
+![node](https://img.shields.io/badge/Node.js-green)
+![mongodb](https://img.shields.io/badge/mongodb-green)
+![express](https://img.shields.io/badge/Express-green)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-orange)
 ![html](https://img.shields.io/badge/HTML-orange)
