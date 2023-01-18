@@ -11,6 +11,10 @@ I am a self-taught developer with a deep enthusiasm for turning my ideas into re
 ![JavaScript](https://img.shields.io/badge/JavaScript-453C67)
 ![html](https://img.shields.io/badge/HTML-453C67)
 ![css](https://img.shields.io/badge/CSS-453C67)
+![tailwindcss](https://img.shields.io/badge/TailwindCSS-453C67)
+![sass](https://img.shields.io/badge/SASS-453C67)
+![bootstrap](https://img.shields.io/badge/Bootstrap-453C67)
+
 
 ## Real-world achievements
 ⭐ Psycho-Trainer - psychometric training app with over 4k downloads on Google Play
