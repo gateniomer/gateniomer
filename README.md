@@ -12,3 +12,5 @@ Feel free to contact me for any reason, I'm always looking for new opportunities
 
 ![react](https://img.shields.io/badge/React-blue)
 ![next.js](https://img.shields.io/badge/Next.js-black)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-orange)
