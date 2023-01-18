@@ -1,9 +1,13 @@
-Independent self-taught developer with a proven track record of creating useful applications, such as Psycho-Trainer. Former team leader with strong interpersonal and problem-solving abilities. Possess strong passion for developing ideas from scratch while being organized, productive, and motivated by challenges.
+I am a self-taught developer with a deep enthusiasm for turning my ideas into reality through the use of web technologies. My love for development has driven me to constantly learn and improve my skills, and I am now eager to turn my hobby into a professional career. I am seeking a full-time Frontend/Fullstack position where I can utilize my skills and passion for developing comprehensive solutions for customers and end users. 
 
-Real-Life Achievements
-- ⭐ Psycho-Trainer (psychometric training app with over 4k downloads on Google Play)
-- ⭐ OmerSites (Founder) (WordPress website building company)
-- ⭐ CCNA Training (training app for the CCNA exams by CISCO)
+My real-world achievements:
+⭐ Psycho-Trainer - psychometric training app with over 4k downloads on Google Play
+⭐ OmerSites - WordPress websites building as a freelancer
+⭐ CCNA Training - training app for the CCNA exams by CISCO
 
-I am seeking a full-time Front-End position where I can utilize my skills and passion for developing comprehensive solutions for customers and end users. 
+Check out my portfolio: https://gateniomer.github.io/portfolio/
+Check out my Github: https://github.com/gateniomer
+
 Feel free to contact me for any reason, I'm always looking for new opportunities! (job offers included)
+
+![https://img.shields.io/badge/React-blue]
