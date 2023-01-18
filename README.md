@@ -7,10 +7,10 @@ I am a self-taught developer with a deep enthusiasm for turning my ideas into re
 ![node](https://img.shields.io/badge/Node.js-FF8B13)
 ![mongodb](https://img.shields.io/badge/MongoDB-FF8B13)
 ![express](https://img.shields.io/badge/Express-FF8B13)
-![TypeScript](https://img.shields.io/badge/TypeScript-F2DEBA)
-![JavaScript](https://img.shields.io/badge/JavaScript-F2DEBA)
-![html](https://img.shields.io/badge/HTML-F2DEBA)
-![css](https://img.shields.io/badge/CSS-F2DEBA)
+![TypeScript](https://img.shields.io/badge/TypeScript-453C67)
+![JavaScript](https://img.shields.io/badge/JavaScript-453C67)
+![html](https://img.shields.io/badge/HTML-453C67)
+![css](https://img.shields.io/badge/CSS-453C67)
 
 ## Real-world achievements
 ⭐ Psycho-Trainer - psychometric training app with over 4k downloads on Google Play
