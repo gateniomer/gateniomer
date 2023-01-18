@@ -3,6 +3,7 @@ I am a self-taught developer with a deep enthusiasm for turning my ideas into re
 
 ## Stack
 ![react](https://img.shields.io/badge/React-8758FF)
+![redux](https://img.shields.io/badge/Redux-8758FF)
 ![next.js](https://img.shields.io/badge/Next.js-8758FF)
 ![node](https://img.shields.io/badge/Node.js-FF8B13)
 ![mongodb](https://img.shields.io/badge/MongoDB-FF8B13)
