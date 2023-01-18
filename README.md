@@ -22,7 +22,7 @@ I am a self-taught developer with a deep enthusiasm for turning my ideas into re
 ## Learn More
 Check out my portfolio: https://gateniomer.github.io/portfolio/
 
-Check out my Github: https://github.com/gateniomer
+Check out my LinkedIn: https://www.linkedin.com/in/omer-gatenio/
 
 Feel free to contact me for any reason, I'm always looking for new opportunities! (job offers included)
 
