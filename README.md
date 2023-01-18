@@ -4,13 +4,13 @@ I am a self-taught developer with a deep enthusiasm for turning my ideas into re
 ## Stack
 ![react](https://img.shields.io/badge/React-820000)
 ![next.js](https://img.shields.io/badge/Next.js-820000)
-![node](https://img.shields.io/badge/Node.js-green)
-![mongodb](https://img.shields.io/badge/mongodb-green)
-![express](https://img.shields.io/badge/Express-green)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-orange)
-![html](https://img.shields.io/badge/HTML-orange)
-![css](https://img.shields.io/badge/CSS-orange)
+![node](https://img.shields.io/badge/Node.js-4E6C50)
+![mongodb](https://img.shields.io/badge/mongodb-4E6C50)
+![express](https://img.shields.io/badge/Express-4E6C50)
+![TypeScript](https://img.shields.io/badge/TypeScript-F2DEBA)
+![JavaScript](https://img.shields.io/badge/JavaScript-F2DEBA)
+![html](https://img.shields.io/badge/HTML-F2DEBA)
+![css](https://img.shields.io/badge/CSS-F2DEBA)
 
 My real-world achievements:
 ⭐ Psycho-Trainer - psychometric training app with over 4k downloads on Google Play
