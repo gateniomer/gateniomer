@@ -16,6 +16,7 @@ I am a self-taught developer with a deep enthusiasm for turning my ideas into re
 ![bootstrap](https://img.shields.io/badge/Bootstrap-3C2A21)
 ![firebase](https://img.shields.io/badge/Firebase-5800FF)
 ![Stripe](https://img.shields.io/badge/Stripe-5800FF)
+![wordpress](https://img.shields.io/badge/WordPress-5800FF)
 
 
 
