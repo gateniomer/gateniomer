@@ -4,8 +4,8 @@ professionally and independently, with numerous personal projects and a business
 in design, product management, and the full web development lifecycle. Proven leader of cross-functional
 teams.
 
+LinkedIn: https://www.linkedin.com/in/omer-gatenio/
 Portfolio: https://gateniomer.github.io/portfolio/
-GitHub: https://github.com/gateniomer
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
